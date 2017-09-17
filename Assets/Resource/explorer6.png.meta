@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: dc481f707ce16e248b79466aeba4fca2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explorer6_1
+    21300002: explorer6_2
+    21300004: explorer6_3
+    21300006: explorer6_4
+    21300008: explorer6_5
+    21300010: explorer6_6
+    21300012: explorer6_6
+    21300014: explorer6_7
+    21300016: explorer6_8
+    21300018: explorer6_9
+    21300020: explorer6_10
+    21300022: explorer6_11
+    21300024: explorer6_12
+    21300026: explorer6_13
+    21300028: explorer6_14
+    21300030: explorer6_15
+    21300032: explorer6_16
+    21300034: explorer6_17
+    21300036: explorer6_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: explorer6_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 60
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 120
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 180
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 60
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 60
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 58
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 115
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 115
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 170
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 112
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explorer6_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 167
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

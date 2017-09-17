@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 21c2a2b8d8bd3144690f07778def75ec
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dust6_0
+    21300002: dust6_1
+    21300004: dust6_2
+    21300006: dust6_3
+    21300008: dust6_4
+    21300010: dust6_5
+    21300012: dust6_6
+    21300014: dust6_7
+    21300016: dust6_8
+    21300018: dust6_9
+    21300020: dust6_10
+    21300022: dust6_11
+    21300024: dust6_12
+    21300026: dust6_13
+    21300028: dust6_14
+    21300030: dust6_15
+    21300032: dust6_16
+    21300034: dust6_17
+    21300036: dust6_18
+    21300038: dust6_19
+    21300040: dust6_20
+    21300042: dust6_21
+    21300044: dust6_22
+    21300046: dust6_23
+    21300048: dust6_24
+    21300050: dust6_25
+    21300052: dust6_26
+    21300054: dust6_27
+    21300056: dust6_28
+    21300058: dust6_29
+    21300060: dust6_30
+    21300062: dust6_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dust6_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 720
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 720
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 720
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 621
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 621
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 621
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 621
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 521
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 521
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 521
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 521
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 422
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 422
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 421
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 323
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 323
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 323
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 322
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 223
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 224
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 224
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 125
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 124
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 124
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 125
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 25
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 25
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 25
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust6_31
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 25
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
